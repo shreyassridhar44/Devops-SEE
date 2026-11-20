@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Storefront-Check: Application check passed successfully!"
+echo "Storefront-Check: Application check passed successfully! (Updated v2)"
