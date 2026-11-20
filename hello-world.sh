@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Storefront-Check: Application check passed successfully! (Updated live 10:03:45)"
+echo "Storefront-Check [user branch]: Application check passed successfully!"
